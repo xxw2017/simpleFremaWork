@@ -1,6 +1,0 @@
-2020-06-05 17:49:46 下午 [Thread: main][ Class:simpleframework.utils.ClassUtil >> Method: simpleframework.utils.ClassUtil.loadClass(ClassUtil.java:112) ]
-ERROR:load Class error:java.lang.ClassNotFoundException: E:\demo\selfFrameWork\target\classes\com\xxw\entity\bo\HeadLine.class
-2020-06-05 17:53:58 下午 [Thread: main][ Class:simpleframework.utils.ClassUtil >> Method: simpleframework.utils.ClassUtil.loadClass(ClassUtil.java:112) ]
-ERROR:load Class error:java.lang.ClassNotFoundException: E:\demo\selfFrameWork\target\classes\com\xxw\entity\bo\HeadLine.class
-2020-06-05 17:56:37 下午 [Thread: main][ Class:simpleframework.utils.ClassUtil >> Method: simpleframework.utils.ClassUtil.loadClass(ClassUtil.java:112) ]
-ERROR:load Class error:java.lang.ClassNotFoundException: E:.demo.selfFrameWork.target.classes.com.xxw.entity.bo.HeadLine
